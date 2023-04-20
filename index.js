@@ -33,3 +33,5 @@ app.listen(process.env.NUPAT_PORT || 3000, (error) => {
   if (!error) return console.log("Starting server on port 3000...");
   console.log(error);
 });
+
+export default app;
