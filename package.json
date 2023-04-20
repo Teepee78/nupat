@@ -1,8 +1,7 @@
 {
-  "name": "kiciti-core",
+  "name": "nupat2",
   "version": "1.0.0",
   "type": "module",
-  "description": "The backbone of the Kiciti app",
   "main": "index.js",
   "scripts": {
     "build": "nodemon ./index.js",
